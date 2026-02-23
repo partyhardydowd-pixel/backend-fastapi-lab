@@ -157,8 +157,6 @@ Pydantic model design
 
 Automated test coverage
 
-Exactly what hiring managers want to see.
-
 📌 Next Up (Roadmap)
 
 Add persistent storage (SQLite → PostgreSQL)
